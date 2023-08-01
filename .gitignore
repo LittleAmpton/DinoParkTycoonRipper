@@ -1,0 +1,4 @@
+*.PAL
+*.ACT
+*.PIC
+__pycache__
